@@ -54,6 +54,14 @@
     <img width="300" src="https://user-images.githubusercontent.com/58990970/95666586-bc6a5b80-0b78-11eb-96eb-5f8537c54562.jpeg" />
 </p>
 
+## Team Members
+- **Nirmit Jatana**
+- **Md Hishaam Akhtar**
+- **Rithik Jain**
+- **Mayank Kumar**
+- **Chanakya Vivek Kapoor**
+- **Swayam Shashwat Sharma**
+
 <p align="center">
 	Made with :heart: by Team Rekursion</a>
 </p>

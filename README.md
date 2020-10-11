@@ -7,6 +7,8 @@
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/) 
 <img src="https://img.shields.io/badge/Team-Rekursion-red?style=for-the-badge&logo=appveyor">
 
+<h3><a href="https://rekursion-vithack2020.netlify.app/">Link to the Website</a></h3>
+
 ### Links to the repositories
 <ul>
 <li><h5><a href="https://github.com/TeamRekursion/flipr">Frontend Repository</a></h5>
